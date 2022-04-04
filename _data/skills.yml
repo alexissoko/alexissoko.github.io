@@ -1,12 +1,13 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill:
+  description: <ul class="resume-item-list">
+              <li>Python; Bash; C#; Java; VSCode; Iterm; MySQL, Snowflake; Postman; Jmeter. etc.</li>
+              <ul class="resume-item-list">
+                <li>Django; Django Rest Framework; Flask; Logging; PyPlot; Pytest; Unitest</li>
+              </ul>
+              <li>SW versioning on GIT. CI &CD with Github; Gitlab; Jarvis; Jenkins; JIRA; etc.</li>
+              <li>Sys admin monitoring/automation (Linux; Bash; SSH; SCP; ISPF; TCP/IP; IPV4/6)</li>
+              <li>Virtualization & Env (Pyenv; Virtual Env; VMWare; VirtualBox; Docker; AWS)</li>
+              <li>Machine Learning/Statistical Learning 101 (Tensor Flow; R; Python)</li>
+          </ul>

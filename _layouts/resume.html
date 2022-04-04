@@ -48,6 +48,24 @@
 
       </header>
 
+      {% if site.resume_section_skills %}
+      <!-- begin Skills -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Skills</h2>
+        </header>
+        {% for skill in site.data.skills %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <p class="resume-item-copy">{{ skill.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Skills -->
+      {% endif %}
+      
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
@@ -101,7 +119,7 @@
       <!-- begin Projects -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Projects</h2>
+          <h2>Certifications</h2>
         </header>
 
         {% for project in site.data.projects %}
@@ -117,26 +135,9 @@
       <!-- end Projects -->
       {% endif %}
 
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Skills</h2>
-        </header>
-        {% for skill in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Skills -->
-      {% endif %}
-
+      <!-- begin Recognition --
       {% if site.resume_section_recognition %}
-      <!-- begin Recognition -->
+
       <section class="content-section">
 
         <header class="section-header">
@@ -152,11 +153,11 @@
         {% endfor %}
 
       </section>
-      <!-- end Recognition -->
       {% endif %}
+      !-- end Recognition -->
 
+      <!-- begin Associations --
       {% if site.resume_section_associations %}
-      <!-- begin Associations -->
       <section class="content-section">
 
         <header class="section-header">
@@ -172,8 +173,8 @@
         {% endfor %}
 
       </section>
-      <!-- end Associations -->
       {% endif %}
+      !-- end Associations -->
 
       {% if site.resume_section_interests %}
       <!-- begin Interests -->

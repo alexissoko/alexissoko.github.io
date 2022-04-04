@@ -1,16 +1,30 @@
-# Projects
+# ProCertifications
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# CCNA 1
+- project: Cisco Certified Network Associate
+  role: CISCO Academy
+  duration: 2011
+  url: "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html"
+  description: CCNA Routing and Switching certification.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# MITx Python
+- project: Computational Thinking using Python 
+  role: MITx
+  duration: 2017
+  url: "https://www.edx.org/es/xseries/mitx-computational-thinking-using-python"
+  description: Algorithmic complexity and Data structures. Stochastic programming and advanced programming in Python 3.
+
+# Machine Learning
+- project: Data Science and Big Data Analytics 
+  role: MITx PRO
+  duration: 2020
+  url: "https://prolearn.mit.edu/data-science-and-big-data-analytics-making-data-driven-decisions"
+  description: Making Data-Driven Decisions. Uncover your data’s true value and learn how to leverage it with the latest and most powerful tools, techniques, and theories in data science from industry experts and renowned MIT faculty.
+
+# Django
+- project: Django 3- Full Stack Websites with Python Web Development
+  role: Udemy
+  duration: 2021
+  url: "https://www.udemy.com/course/django-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/"
+  description: Build 3 stunning websites, learn Back and Front End Web Development, deploy your site with HTML5, CSS3 and Bootstrap 4.
