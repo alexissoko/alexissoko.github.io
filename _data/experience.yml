@@ -4,14 +4,14 @@
   position: Automation Engineer
   duration: Aug, 2020 &mdash; Present
   summary:  <ul class="resume-item-list">
-              <li>Automation of QA with Python Error prone process edition optimized</li>
-              <li>Simple framework architecture design for reusability/readability VScode + Pytest.</li>
+              <li>Automation of QA with <mark>Python</mark> Error prone process edition optimized</li>
+              <li>Simple framework architecture design for reusability/readability <mark>VScode</mark> + <mark>Pytest</mark>.</li>
               <ul class="resume-item-list">
-                <li>DB Querying and QA automated on ETL process. (MySQL, Snowflake)</li>
+                <li>DB Querying and QA automated on ETL process. (<mark>MySQL</mark>, <mark>MySQL</mark>Snowflake)</li>
               </ul>
-              <li>Creation of APIs to provide easy scalability and on-the-fly implementation. Postman QA.</li>
-              <li>Automation SW maintained/delivered with GIT. Checkpoint and reusability.</li>
-              <li>Front end <mark>Usability</mark> testing according to  SW maintained/delivered with GIT. Checkpoint and reusability.</li>
+              <li>Creation of APIs to provide easy scalability and on-the-fly implementation. <mark>Postman</mark> QA.</li>
+              <li>Automation SW maintained/delivered with <mark>GIT</mark>. Checkpoint and reusability.</li>
+              <li>Front end <mark>Usability</mark> testing according to  SW maintained/delivered with <mark>Github</mark> through<mark>SSH</mark>. Checkpoint and reusability.</li>
             </ul>
 
 # Director of Digital Stratgy
@@ -19,15 +19,15 @@
   position: Facebook - Esencia Technologies
   duration:  Aug, 2019 &mdash; Aug, 2020
   summary:  <ul class="resume-item-list">
-              <li>Performance and security testing modules added to improve framework coverage and stability (using paramiko and socket modules; ISPF and TCP/IP protocols).</li>
-              <li>Plotting API for signal analysis for QA performance. (Pandas and matplotlib modules).</li>
+              <li><mark>Performance</mark> and <mark>Security</mark> testing modules added to improve framework coverage and stability (using <mark>paramiko</mark> and socket modules; <mark>ISPF</mark> and <mark>TCP/</mark>IP protocols).</li>
+              <li>Plotting API for signal analysis for QA performance. (<mark>Pandas</mark> and <mark>matplotlib</mark> modules).</li>
               <li>Antennas Thorlab Rotation Stage simple operation through API development</li>
               <ul class="resume-item-list">
-                <li>Booting and rotation functionality implemented for project.</li>
+                <li>Booting and rotation functionality implemented for project .</li>
               </ul>
-              <li>Main script test refactored. Standardized with PEP 8. Made Pythonistic</li>
+              <li>Main script test refactored. Standardized with <mark>PEP 8</mark>. Made Pythonistic</li>
               <ul class="resume-item-list">
-                <li>Improved project test automation efficiency and readability. Python, C# and Z-Shell.</li>
+                <li>Improved project test automation efficiency and readability. <mark>Python</mark>, <mark>C#</mark> and <mark>Z-Shell</mark>.</li>
               </ul>
             </ul>
 
