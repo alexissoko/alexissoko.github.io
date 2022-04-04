@@ -7,7 +7,7 @@
               <li>Automation of QA with <mark>Python</mark> Error prone process edition optimized</li>
               <li>Simple framework architecture design for reusability/readability <mark>VScode</mark> + <mark>Pytest</mark>.</li>
               <ul class="resume-item-list">
-                <li>DB Querying and QA automated on ETL process. (<mark>MySQL</mark>, <mark>MySQL</mark>Snowflake)</li>
+                <li>DB Querying and QA automated on ETL process. (<mark>MySQL</mark>, <mark>Snowflake</mark>)</li>
               </ul>
               <li>Creation of APIs to provide easy scalability and on-the-fly implementation. <mark>Postman</mark> QA.</li>
               <li>Automation SW maintained/delivered with <mark>GIT</mark>. Checkpoint and reusability.</li>
