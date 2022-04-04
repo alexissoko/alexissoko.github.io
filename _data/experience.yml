@@ -37,7 +37,7 @@
   duration:   March, 2017  &mdash; May, 2019
   summary: <ul class="resume-item-list">
               <li>Backend test automation. <mark>DB</mark>, <mark>MySQL</mark> testing</li>
-              <li>Frontend test automation. User interface web apps testef with <mark>Python</mark>; <mark>Selenium</mark>; <mark>Lint</mark>; <mark>Black</mark>; <mark>PEP</mark></li>
+              <li>Frontend test automation. User interface web apps tested with <mark>Python</mark>; <mark>Selenium</mark>; <mark>Lint</mark>; <mark>Black</mark>; <mark>PEP</mark></li>
               <li><mark>API</mark> performance and security testing; <mark>Postman</mark>; <mark>Newman</mark>; <mark>HTML</mark> reporting; <mark>Visal Studio</mark></li>
               <li>Other tools= <mark>Java</mark>; <mark>Junit</mark>; <mark>GitLab</mark>; <mark>Cypress</mark>; <mark>Jira</mark>; <mark>Jenkins</mark></li>
           </ul>
