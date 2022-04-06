@@ -4,13 +4,13 @@
   position: Automation Engineer
   duration: Aug, 2020 &mdash; Present
   summary:  <ul class="resume-item-list">
-              <li>Automation of QA with <mark>Python</mark> to avoid error prone process./li>
-              <li>Simple framework architecture design improment for reusability/readability purposes. <mark>VScode</mark>; <mark>Pytest</mark>.</li>
+              <li>Automation of QA with <mark>Python</mark> to avoid error prone process.</li>
+              <li>Simple framework architecture design improvement for reusability/readability purposes. <mark>VScode</mark>; <mark>Pytest</mark>.</li>
               <ul class="resume-item-list">
-                <li>DB Querying and QA automated on ETL process. (<mark>MySQL</mark>, <mark>Snowflake</mark>) to upgrade scalability</li>
+                <li>DB Querying and QA automated on ETL process. (<mark>MySQL</mark>, <mark>Snowflake</mark>) to upgrade scalability.</li>
               </ul>
-              <li>APIs regressions tests automated with reporting for JIT release deploy and support. <mark>Postman</mark>; <Newman>.</li>
-              <li>Front end <mark>Usability</mark> testing according to  SW maintained/delivered with <mark>Github</mark> through <mark>SSH</mark>. Checkpoint and reusability.</li>
+              <li>APIs regressions tests automated with reporting for JIT release deploy and support. <mark>Postman</mark>; <mark>Newman</mark>.</li>
+              <li>Front end <mark>Usability</mark> testing framwork maintained/delivered with <mark>Github</mark> through <mark>SSH</mark>. Made more secure with checkpoints and more reusable.</li>
             </ul>
 
 # Director of Digital Stratgy
@@ -19,12 +19,12 @@
   duration:  Aug, 2019 &mdash; Aug, 2020
   summary:  <ul class="resume-item-list">
               <li><mark>Performance</mark> and <mark>Security</mark> testing modules added to improve framework coverage and stability (using <mark>Paramiko</mark> and <mark>Socket</mark> modules; <mark>ISPF</mark> and <mark>TCP/</mark>IP protocols).</li>
-              <li>Plotting API for signal analysis for QA performance. (<mark>Pandas</mark> and <mark>matplotlib</mark> modules).</li>
-              <li>Thorlab Rotation automation API developed to scale and speed test execution</li>
+              <li>Plotting API development added better signal analysis and documentation. (<mark>Pandas</mark> and <mark>Matplotlib</mark> modules).</li>
+              <li>Thorlab rotor API developed to scale and speed test execution.</li>
               <ul class="resume-item-list">
-                <li>Booting and rotation functionality implemented for project .</li>
+                <li>Booting and rotation functionality implemented for antenna position.</li>
               </ul>
-              <li>Main script test refactored. Standardized with <mark>PEP 8</mark>. Made Pythonistic</li>
+              <li>Main script test refactored. Standardized with <mark>PEP 8</mark>. Made Pythonistic.</li>
               <ul class="resume-item-list">
                 <li>Improved project test automation efficiency and readability. <mark>Python</mark>, <mark>C#</mark> and <mark>Z-Shell</mark>.</li>
               </ul>
@@ -35,8 +35,8 @@
   position: SDET
   duration:   March, 2017  &mdash; May, 2019
   summary: <ul class="resume-item-list">
-              <li>Backend test automation. <mark>DB</mark>, <mark>MySQL</mark> testing</li>
-              <li>Frontend test automation. User interface web apps tested with <mark>Python</mark>; <mark>Selenium</mark>; <mark>Lint</mark>; <mark>Black</mark>; <mark>PEP</mark></li>
-              <li><mark>API</mark> performance and security testing; <mark>Postman</mark>; <mark>Newman</mark>; <mark>HTML</mark> reporting; <mark>Visual Studio</mark></li>
-              <li>Other tools= <mark>Java</mark>; <mark>Junit</mark>; <mark>GitLab</mark>; <mark>Cypress</mark>; <mark>Jira</mark>; <mark>Jenkins</mark></li>
+              <li>Backend test automation. <mark>DB</mark>, <mark>MySQL</mark> testing.</li>
+              <li>Frontend test automation. User interface web apps tested with <mark>Python</mark>; <mark>Selenium</mark>; <mark>Lint</mark>; <mark>Black</mark>; <mark>PEP</mark>.</li>
+              <li><mark>API</mark> performance and security testing; <mark>Postman</mark>; <mark>Newman</mark>; <mark>HTML</mark> reporting; <mark>Visual Studio</mark>.</li>
+              <li>Other tools. <mark>Java</mark>; <mark>Junit</mark>; <mark>GitLab</mark>; <mark>Cypress</mark>; <mark>Jira</mark>; <mark>Jenkins</mark>.</li>
           </ul>
