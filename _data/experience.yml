@@ -4,10 +4,10 @@
   position: Automation Engineer
   duration: Aug, 2020 &mdash; Present
   summary:  <ul class="resume-item-list">
-              <li>Automation of QA with <mark>Python</mark> Error prone process edition optimized</li>
-              <li>Simple framework architecture design for reusability/readability <mark>VScode</mark> + <mark>Pytest</mark>.</li>
+              <li>Automation of QA with <mark>Python</mark> to avoid rrror prone process./li>
+              <li>Simple framework architecture design improment for reusability/readability purposes. <mark>VScode</mark>; <mark>Pytest</mark>.</li>
               <ul class="resume-item-list">
-                <li>DB Querying and QA automated on ETL process. (<mark>MySQL</mark>, <mark>Snowflake</mark>)</li>
+                <li>DB Querying and QA automated on ETL process. (<mark>MySQL</mark>, <mark>Snowflake</mark>) to upgrade scalability</li>
               </ul>
               <li>Creation of APIs to provide easy scalability and on-the-fly implementation. <mark>Postman</mark>.</li>
               <li>Front end <mark>Usability</mark> testing according to  SW maintained/delivered with <mark>Github</mark> through <mark>SSH</mark>. Checkpoint and reusability.</li>
@@ -20,7 +20,7 @@
   summary:  <ul class="resume-item-list">
               <li><mark>Performance</mark> and <mark>Security</mark> testing modules added to improve framework coverage and stability (using <mark>Paramiko</mark> and <mark>Socket</mark> modules; <mark>ISPF</mark> and <mark>TCP/</mark>IP protocols).</li>
               <li>Plotting API for signal analysis for QA performance. (<mark>Pandas</mark> and <mark>matplotlib</mark> modules).</li>
-              <li>Antennas Thorlab Rotation Stage simple operation through API development</li>
+              <li>Thorlab Rotation automation API developed to scale and speed test execution</li>
               <ul class="resume-item-list">
                 <li>Booting and rotation functionality implemented for project .</li>
               </ul>
