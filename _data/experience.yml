@@ -18,7 +18,7 @@
   position: Software and Networking Automation Engineer
   duration:  Aug, 2019 &mdash; Aug, 2020
   summary:  <ul class="resume-item-list">
-              <li><mark>Performance</mark> and <mark>Security</mark> testing modules added to improve framework coverage and stability (using <mark>paramiko</mark> and socket modules; <mark>ISPF</mark> and <mark>TCP/</mark>IP protocols).</li>
+              <li><mark>Performance</mark> and <mark>Security</mark> testing modules added to improve framework coverage and stability (using <mark>Paramiko</mark> and <mark>Socket</mark> modules; <mark>ISPF</mark> and <mark>TCP/</mark>IP protocols).</li>
               <li>Plotting API for signal analysis for QA performance. (<mark>Pandas</mark> and <mark>matplotlib</mark> modules).</li>
               <li>Antennas Thorlab Rotation Stage simple operation through API development</li>
               <ul class="resume-item-list">
