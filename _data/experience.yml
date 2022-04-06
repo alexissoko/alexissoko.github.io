@@ -15,8 +15,8 @@
             </ul>
 
 # Director of Digital Stratgy
-- company: Software and Networking Automation Engineer
-  position: Facebook - Esencia Technologies
+- company: Facebook - Esencia Technologies
+  position: Software and Networking Automation Engineer
   duration:  Aug, 2019 &mdash; Aug, 2020
   summary:  <ul class="resume-item-list">
               <li><mark>Performance</mark> and <mark>Security</mark> testing modules added to improve framework coverage and stability (using <mark>paramiko</mark> and socket modules; <mark>ISPF</mark> and <mark>TCP/</mark>IP protocols).</li>
