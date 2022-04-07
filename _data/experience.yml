@@ -18,7 +18,7 @@
   position: Software and Networking Automation Engineer
   duration:  Aug, 2019 &mdash; Aug, 2020
   summary:  <ul class="resume-item-list">
-              <li><mark>Performance</mark> and <mark>Security</mark> testing modules added to improve framework coverage and stability (using <mark>Paramiko</mark> and <mark>Socket</mark> modules; <mark>ISPF</mark> and <mark>TCP/</mark>IP protocols).</li>
+              <li><mark>Performance</mark> and <mark>Security</mark> testing modules added to improve framework coverage and stability (using <mark>Paramiko</mark> and <mark>Socket</mark> modules; <mark>ISPF</mark> and <mark>TCP/IP</mark> protocols).</li>
               <li>Plotting API development added better signal analysis and documentation. (<mark>Pandas</mark> and <mark>Matplotlib</mark> modules).</li>
               <li>Thorlab rotor API developed to scale and speed test execution.</li>
               <ul class="resume-item-list">
