@@ -35,8 +35,8 @@
   position: SDET
   duration:   March, 2017  &mdash; May, 2019
   summary: <ul class="resume-item-list">
-              <li>Backend test automation. <mark>DB</mark>, <mark>MySQL</mark> testing.</li>
-              <li>Frontend test automation. User interface web apps tested with <mark>Python</mark>; <mark>Selenium</mark>; <mark>Lint</mark>; <mark>Black</mark>; <mark>PEP</mark>.</li>
-              <li><mark>API</mark> performance and security testing; <mark>Postman</mark>; <mark>Newman</mark>; <mark>HTML</mark> reporting; <mark>Visual Studio</mark>.</li>
-              <li>Other tools. <mark>Java</mark>; <mark>Junit</mark>; <mark>GitLab</mark>; <mark>Cypress</mark>; <mark>Jira</mark>; <mark>Jenkins</mark>.</li>
+            <li>API development <mark>Django REST Framework</mark></li>
+            <li>Backend test automation. , <mark>MySQL</mark> testing.</li>
+            <li>Frontend test automation. User interface web apps tested with <mark>Python</mark>; <mark>Selenium</mark>; <mark>Lint</mark>; <mark>Black</mark>; <mark>PEP</mark>.</li>
+            <li>Other tools. <mark>Python</mark>; <mark>Django</mark>; <mark>GitLab</mark>; <mark>Vue</mark>; <mark>PyTest</mark>; <mark>Selenium</mark>.</li>
           </ul>
