@@ -4,8 +4,9 @@
   description:
         <em>
           <ul class="resume-item-list">
-            <li>Python; Bash; C#; Java; VSCode; Iterm; MySQL, Snowflake; Postman; Jmeter. etc.</li>
+            <li>Dev Tools.</li>
             <ul class="resume-item-list">
+              <li>Python; Bash; C#; Java; VSCode; Iterm; MySQL, Snowflake; Postman; Jmeter. etc.</li>
               <li>Django; Django Rest Framework; Flask; Logging; PyPlot; Pytest; Unitest</li>
             </ul>
             <li>SW versioning on GIT. CI &CD with Github; Gitlab; Jarvis; Jenkins; JIRA; etc.</li>
