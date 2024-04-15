@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Alexis Soko"
-resume_title:                   "Software Development Engineer in Test"
+resume_title:                   "Software Developer / SDET"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "alexissoko@gmail.com"
