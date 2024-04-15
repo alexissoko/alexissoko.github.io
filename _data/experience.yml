@@ -1,8 +1,18 @@
 # Jobs
+# SDET
+- company: NCR D3
+  position: SDET
+  duration: Feb, 2023 &mdash; Present
+  summary:  <ul class="resume-item-list">
+              <li><mark>BI</mark> Analytics framework designed and implemented from the ground. Improved team metrics and decision making.</li>
+              <li><mark>Postman</mark> framework built and deployed into CI/CD (Github actions).</li>
+              <li>FE <mark>Playwright</mark> regression framework improved simplicity and features by making it <mark>Cucumber</mark> (BBD) compatible.</li>
+            </ul>
+
 # Automation Engineer
-- company: NCR D3 - Santex
+- company: NCR D3
   position: Automation Engineer
-  duration: Aug, 2020 &mdash; Present
+  duration: Oct, 2020 &mdash; Nov 2022
   summary:  <ul class="resume-item-list">
               <li>Automation of QA with <mark>Python</mark> to avoid error prone process.</li>
               <li>Simple framework architecture design improvement for reusability/readability purposes. <mark>VScode</mark>; <mark>Pytest</mark>.</li>
@@ -13,10 +23,10 @@
               <li>Front end <mark>Usability</mark> testing framwork maintained/delivered with <mark>Github</mark> through <mark>SSH</mark>. Made more secure with checkpoints and more reusable.</li>
             </ul>
 
-# Director of Digital Stratgy
+# Software & Networking Engineer
 - company: Facebook - Esencia Technologies
   position: Software and Networking Automation Engineer
-  duration:  Aug, 2019 &mdash; Aug, 2020
+  duration:  Jul, 2019 &mdash; Sep, 2020
   summary:  <ul class="resume-item-list">
               <li><mark>Performance</mark> and <mark>Security</mark> testing modules added to improve framework coverage and stability (using <mark>Paramiko</mark> and <mark>Socket</mark> modules; <mark>ISPF</mark> and <mark>TCP/IP</mark> protocols).</li>
               <li>Plotting API development added better signal analysis and documentation. (<mark>Pandas</mark> and <mark>Matplotlib</mark> modules).</li>
@@ -30,10 +40,10 @@
               </ul>
             </ul>
 
-# Communications Coordinator
+# Python Full stack
 - company: Tautology Company (Freelance Contractor)
-  position: SDET
-  duration:   March, 2017  &mdash; May, 2019
+  position: Python Full stack
+  duration:   March, 2017  &mdash; Present
   summary: <ul class="resume-item-list">
             <li>API development <mark>Django REST Framework</mark></li>
             <li>Backend test automation. , <mark>MySQL</mark> testing.</li>
