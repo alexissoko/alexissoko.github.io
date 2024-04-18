@@ -25,7 +25,7 @@
 
 # Software & Networking Engineer
 - company: Facebook | Networking
-  position: Software and Networking Automation Engineer
+  position: Software and Networking Engineer
   duration:  Jul, 2019 &mdash; Sep, 2020
   summary:  <ul class="resume-item-list">
               <li><mark>Performance</mark> and <mark>Security</mark> testing modules added to improve framework coverage and stability (using <mark>Paramiko</mark> and <mark>Socket</mark> modules; <mark>ISPF</mark> and <mark>TCP/IP</mark> protocols).</li>
