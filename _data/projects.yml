@@ -28,3 +28,10 @@
   duration: 2021
   url: "https://www.udemy.com/course/django-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/"
   description: Build websites. Full stack with HTML5, CSS3 and Bootstrap 4. Deploy over <mark>IAAS</mark> or <mark>PAAS</mark>.
+
+# Docker Fundamentals
+- project: Docker Fundamentals
+  role: Cantrill.io
+  duration: 2023
+  url: "https://learn.cantrill.io/courses/docker-fundamentals/lectures/44149360"
+  description: Containerization, deployment, and monitoring. Docker; Kubernetes; AWS
