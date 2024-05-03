@@ -45,20 +45,13 @@
   position: Python Full stack
   duration:   March, 2017  &mdash; Present
   summary: <ul class="resume-item-list">
-             <li>Full Stack web development: Django; Vue; React; JS. FASTAPI; Flask; Swagger; Rest Framework</li>
-             <li>Cloud: AWS EC2, Lambda; PythonAnywhere; Heroku; GCP (Google Cloud)/Firebase. Linux</li>
-              <ul>
-                <li>Containerized apps using Docker, deployed them on GCP Kubernetes Engine and established automated CI/CD pipelines for continuous updates and monitoring</li>
-                <li>Web Scrapping: BeautifulSoup; Scrapy; Requests; Selenium; ETL.</li>
-              </ul>
-             <li>Front End/Backend test automation: Playwright; Selenium; Maven - Pytest; UnitTest; TestNG</li>
-
-
-• 
-• Containerized apps using Docker, deployed them on GCP Kubernetes Engine and established automated
-CI/CD pipelines for continuous updates and monitoring.
-            <li>API development <mark>Django REST Framework</mark></li>
-            <li>Backend test automation. , <mark>MySQL</mark> testing.</li>
-            <li>Frontend test automation. User interface web apps tested with <mark>Python</mark>; <mark>Selenium</mark>; <mark>Lint</mark>; <mark>Black</mark>; <mark>PEP</mark>.</li>
-            <li>Other tools. <mark>Python</mark>; <mark>Django</mark>; <mark>GitLab</mark>; <mark>Vue</mark>; <mark>PyTest</mark>; <mark>Selenium</mark>.</li>
+            <li>Full Stack web development: Django; Vue; React; JS. FASTAPI; Flask; Swagger; Rest Framework</li>
+            <li>Cloud: AWS EC2, Lambda; PythonAnywhere; Heroku; GCP (Google Cloud)/Firebase. Linux</li>
+            <ul>
+              <li>Containerized apps using Docker, deployed them on GCP Kubernetes Engine and established automated CI/CD pipelines for continuous updates and monitoring</li>
+              <li>Web Scrapping: BeautifulSoup; Scrapy; Requests; Selenium; ETL.</li>
+            </ul>
+            <li>Front End/Backend test automation: Playwright; Selenium; Maven - Pytest; UnitTest; TestNG</li>
           </ul>
+
+
